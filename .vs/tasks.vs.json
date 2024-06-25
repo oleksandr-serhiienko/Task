@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-create_tables",
+      "appliesTo": "src/create_tables.py",
+      "type": "launch"
+    }
+  ]
+}
